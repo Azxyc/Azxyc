@@ -2,12 +2,6 @@
 I'm [**azxyc**](https://azxyc.xyz). I'm a second year Computer Science student at the [**University of Liverpool**](https://liv.ac.uk). I like making websites that look good and work good, amongst other things... <br/><br/>
 
 
-Check out my projects [here](https://azxyc.xyz/projects). <br/>
-Want to get in touch? [Click here](https://azxyc.xyz/contact).
-
-
-
-
 ----
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
