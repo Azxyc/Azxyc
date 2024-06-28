@@ -1,6 +1,6 @@
-## Hi there 👋
-I'm [**azxyc**](https://azxyc.xyz). I'm a second year Computer Science student at the [**University of Liverpool**](https://liv.ac.uk). I like making websites that look good and work good, amongst other things... <br/><br/>
+## hi. i'm azxyc.
 
+i make things.
 
 ----
 
